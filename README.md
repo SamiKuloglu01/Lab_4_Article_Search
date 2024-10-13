@@ -11,19 +11,19 @@ Time spent: **18** hours spent in total
 The following **required** functionality is completed:  
 
 - [x] (3 pts) **Articles are displayed using the RecyclerView.**  
-  - ![Image/GIF showing RecyclerView implementation](http://i.imgur.com/link/to/your/gif/file.gif)  
+  - ![Image/GIF showing RecyclerView implementation](gifs/LAB_4_P1.gif)  
 
 - [x] (4 pts) **Can navigate to the Article Details screen.**  
-  - ![Image/GIF showing Article Details screen](http://i.imgur.com/link/to/your/gif/file.gif)  
+  - ![Image/GIF showing Article Details screen](gifs/LAB_4_P2.gif)  
 
 - [x] (3 pts) **Article images are downloaded and displayed using Glide.**  
-  - ![Image/GIF showing Glide usage](http://i.imgur.com/link/to/your/gif/file.gif)  
+  - ![Image/GIF showing Glide usage](gifs/LAB_4_P3.gif)  
 
 ### Stretch Features  
 The following **stretch** functionality is implemented:  
 
 - [x] (+2 pts bonus) **Enhanced the UI for the application with customized fonts and ConstraintLayout for each of the screens.**  
-  - ![Image/GIF showing custom UI styling](http://i.imgur.com/link/to/your/gif/file.gif)  
+  - ![Image/GIF showing custom UI styling](gifs/LAB_4_P1.gif)  
 
 
 ## Resources  
